@@ -1,0 +1,8 @@
+h1 {
+    border-style: solid;
+    background-color: black;
+    color: white;
+    margin: 100px;
+    padding: 40px;
+    border-radius: 50px;
+}

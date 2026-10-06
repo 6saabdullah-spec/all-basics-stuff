@@ -1,0 +1,55 @@
+/* تنسيق خلفية الصفحة ونوع الخط بناءً على تعليمات الدكتور */
+body {
+    background-color: #eaeaea; /* لون خلفية الصفحة المذكور */
+    font-family: sans-serif; /* نوع الخط المطلوب */
+    margin: 0;
+    padding: 20px;
+}
+
+/* تنسيق الحاوية الرئيسية (.container) */
+.container {
+    background-color: #ffffff; /* خلفية الحاوية */
+    width: 80%;
+    max-width: 600px;
+    margin: 40px auto; /* هامش خارجي لتوسيط الحاوية */
+    padding: 25px; /* مسافة داخلية */
+    border: 2px solid #006c35; /* إطار باللون الأخضر */
+    border-radius: 12px; /* حواف دائرية */
+    text-align: center; /* محاذاة النص للوسط */
+}
+
+/* تنسيق العنوان الرئيسي (h1) */
+h1 {
+    color: #006c35;
+    font-size: 28px; /* حجم الخط */
+    margin-bottom: 15px; /* هامش سفلي */
+}
+
+/* تنسيق العنوان الفرعي (h2) */
+h2 {
+    color: #2c3e50;
+    font-size: 20px; /* حجم الخط */
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* تنسيق حاوية القائمة (.list) */
+.list {
+    background-color: #f4f9f5;
+    padding: 15px; /* مسافة داخلية */
+    border-radius: 8px; /* حواف دائرية */
+    border: 1px dashed #006c35; /* إطار منقط */
+    text-align: right; /* محاذاة عناصر القائمة لليمين */
+}
+
+/* تنسيق عناصر القائمة (ul) */
+.list ul {
+    margin: 0;
+    padding-right: 20px;
+}
+
+.list li {
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 8px;
+}

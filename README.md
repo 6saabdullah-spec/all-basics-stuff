@@ -35,7 +35,7 @@
 ## DB Browser for SQLite
 
 <p align="center">
-  <img src="https://sqlitebrowser.org/images/sqlitebrowser.png" width="120" alt="DB Browser Logo">
+  <img src="https://lens.usercontent.google.com/image?vsrid=CKSPjeuCr-ao9gEQAhgBIiQ5NmMzYTFlZS0yZGFkLTQ0NGItYjg0OC0yMmUwZGM1NzljODMyggEiAnJhKBRCdAoubGZlLWR1bW15OmVkN2RmNzYyLWE1ODEtNDVjYi05MTMxLTQ5OTkyNTAyYmVjMxJCCkAvYm5zL3JhL2JvcmcvcmEvYm5zL2xlbnMtZnJvbnRlbmQtYXBpL3Byb2QubGVucy1mcm9udGVuZC1hcGkvMTQ5WgQKAnJhOO7av5mPppcD&gsessionid=5iprSfxdYT1MR0Zb4UwNSL_Or19xRnPyoQXClgXYY6-zDC-oYGUiqA" width="120" alt="DB Browser Logo">
 </p>
 
 [📥 تحميل البرنامج](https://sqlitebrowser.org/dl/)

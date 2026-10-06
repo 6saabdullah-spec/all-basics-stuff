@@ -56,7 +56,7 @@
 ## أكاديمية سطر (Tuwaiq Academy)
 
 <p align="center">
-  <img src="https://satr.tuwaiq.edu.sa/static/media/satr-logo.46c24be3.svg" width="220" alt="Satr Platform Logo">
+  <img src="https://saudipedia.com/var/site/storage/images/_aliases/infobox_detail_1x/5/9/7/8/5878795-1-ara-SA/5eb6e03609ec-87805.jpg.webp" width="220" alt="Satr Platform Logo">
 </p>
 
 🔗 [زيارة منصة سطر](https://satr.tuwaiq.edu.sa/)

@@ -11,7 +11,7 @@
 ## Visual Studio Code
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="120" alt="VS Code Logo">
+  <img src="https://raw.githubusercontent.com/microsoft/vscode-icons/main/icons/light/vscode.svg" width="120" alt="VS Code Logo">
 </p>
 
 [📥 تحميل البرنامج](https://code.visualstudio.com/)
@@ -22,7 +22,7 @@
 محرر أكواد خفيف وسريع يعتبر البيئة الرئيسية لكتابة البرامج، ويتميز بتوفير إضافات وتكامل ممتاز يسهل التطوير والتنفيذ.
 
 <p align="center">
-  <img src="https://code.visualstudio.com/assets/docs/getstarted/userinterface/hero.png" width="800" alt="VS Code Interface">
+  <img src="https://code.visualstudio.com/assets/images/home-screenshot-mac.png" width="800" alt="VS Code Interface - Latest">
 </p>
 
 ### 🧩 الإضافات التي أستخدمها
@@ -35,7 +35,7 @@
 ## DB Browser for SQLite
 
 <p align="center">
-  <img src="https://sqlitebrowser.org/images/sqlitebrowser.png" width="120" alt="DB Browser Logo">
+  <img src="https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/master/images/sqlitebrowser.png" width="120" alt="DB Browser Logo">
 </p>
 
 [📥 تحميل البرنامج](https://sqlitebrowser.org/dl/)
@@ -46,7 +46,7 @@
 أداة رسومية مفتوحة المصدر لإدارة قواعد البيانات، تُستخدم لإنشاء وتعديل واستعلام قواعد البيانات بلغة SQL بطريقة سهلة ومباشرة دون الحاجة لكتابة أوامر المعالجة المعقدة.
 
 <p align="center">
-  <img src="https://sqlitebrowser.org/images/screenshot.png" width="800" alt="DB Browser Interface">
+  <img src="https://sqlitebrowser.org/images/screencast.gif" width="800" alt="DB Browser Interface - Usage Demo">
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## أكاديمية سطر (Tuwaiq Academy)
 
 <p align="center">
-  <img src="https://satr.tuwaiq.edu.sa/static/media/satr-logo.46c24be3.svg" width="220" alt="Satr Platform Logo">
+  <img src="https://satr.tuwaiq.edu.sa/static/media/satr-logo.46c24be3.svg" width="300" alt="Satr Platform Logo - Clear">
 </p>
 
 🔗 [زيارة منصة سطر](https://satr.tuwaiq.edu.sa/)

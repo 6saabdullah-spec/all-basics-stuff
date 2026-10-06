@@ -55,7 +55,7 @@
 
 ## أكاديمية سطر (Tuwaiq Academy)
 
-<p align="center">
+<p align="center" border-radius=10px>
   <img src="https://saudipedia.com/var/site/storage/images/_aliases/infobox_detail_1x/5/9/7/8/5878795-1-ara-SA/5eb6e03609ec-87805.jpg.webp" width="220" alt="Satr Platform Logo">
 </p>
 

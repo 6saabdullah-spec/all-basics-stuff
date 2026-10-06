@@ -1,0 +1,52 @@
+Create Table school(     *CREATED DATABASE WITH NAME*
+ID INT(10),                        *CREATE A COLUMN NAMED BY ID*
+fname Text(50),           *CREATE A NAME FOR THE USER*
+Email Text(50)            *CREATE EMAIL INPUT FOR THE USER*
+);                        *SUPPOST TO END () WITH ;*  
+
+Alter table School ADD column age INT(2);         *ADDING COULMN*
+Alter table School drop column age;               *DELETING COLUMN*
+Alter table School rename column fname to lname;  *RENAMING COLUMN*
+Alter table School rename to College;             *RENAMING DATABASE*
+
+Drop table College;                               *DELETE THE DATABASE*
+
+
+----------------------------------------------------------
+
+Create Table college(          *CREATED DATABASE WITH NAME*
+ID INT(10) Primary key,        *PRIMARY KEY DOSENT REPEAT AND*
+fname Text(50) Not Null,       *NOT NULL MEANS DOSENT LEFT EMPTY*
+lname Text(50) Not Null,
+Email Text(50) Unique,         *UNIQUE MEANS EMAIL CAN NOT BE USED WITH ANOTHER USER*
+age INT(2) check (age >= 18)   *CHECK IS MAKING SURE THE USER IS HIGHER THAN 18 YEAR OLD ETHIER IT DOSENT ACCEPT*
+);
+
+Create Table course(
+ID INT(10) Primary key,
+cname Text(50) Not Null,
+SID INT(10),
+foreign key (SID) references college(ID) *FOREIGN MEANS THAT THE KEY IS BACK TO THE MAIN KEY TO COLLAGE*
+);
+
+----------------------------------------------------------
+
+Create Table college(
+CID INT(3) Primary key,
+cname Text(50) Not Null,
+city Text(50) Not Null
+);
+
+I
+insert into college (CID,cname,city) values (10,"TCTI","Riyadh");  *INSERT THE DATA TO DATABASE*
+insert into college (CID, cname,city)        *INSERT THE DATA TO DATABASE*
+values 
+(20, "DTI","Dammam"),
+(30,"MTI","Madina"),
+(40,"JTI","Jeddah");
+
+UPDATE college                               *UPDATING THE INFO OF THE USER*
+SET cname = 'ACT', City= 'Abha'              *CHANGING THE NAME AND CITY COMMAND*
+WHERE CID = 20;                              *LOCATES THE USER WHO HAS THE CHANGES*
+
+DELETE FROM college WHERE CID =40; *DELETING DATAS INTO COLUMWN*

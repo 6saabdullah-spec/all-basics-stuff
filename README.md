@@ -30,6 +30,9 @@
 - **Code Runner**
 - **Live Server**
 
+### تحميل لغه JAVA
+[تحميل اللغه](https://www.oracle.com/sa/java/technologies/downloads/#jdk27-windows)
+
 ---
 
 ## DB Browser for SQLite

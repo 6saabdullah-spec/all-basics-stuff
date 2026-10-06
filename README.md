@@ -11,7 +11,7 @@
 ## Visual Studio Code
 
 <p align="center">
-  <img src="https://code.visualstudio.com/assets/docs/getstarted/userinterface/hero.png" width="120" alt="VS Code Logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="120" alt="VS Code Logo">
 </p>
 
 [📥 تحميل البرنامج](https://code.visualstudio.com/)

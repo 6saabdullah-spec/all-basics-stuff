@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="120" alt="VS Code Logo">
 </p>
 
-[ تحميل البرنامج](https://code.visualstudio.com/)
+🔗 [تحميل البرنامج](https://code.visualstudio.com/)
 
 البرنامج الرئيسي الذي أستخدمه لكتابة وتطوير أكواد لغات **Java** و **HTML** و **CSS**.
 
@@ -31,7 +31,7 @@
 - **Live Server**
 
 ### تحميل لغه JAVA
-[تحميل اللغه](https://www.oracle.com/sa/java/technologies/downloads/#jdk27-windows)
+🔗 [تحميل اللغه](https://www.oracle.com/sa/java/technologies/downloads/#jdk27-windows)
 
 ---
 
@@ -41,7 +41,7 @@
   <img src="https://imgproxy.flathub.org/insecure/dpr:1/f:avif/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9vcmcvc3FsaXRlYnJvd3Nlci9zcWxpdGVicm93c2VyL2Y5MzZmNDNkZWE2OWVkOGYwZTNlZWI4ZTkzNmFjOGQ0L2ljb25zLzEyOHgxMjgvb3JnLnNxbGl0ZWJyb3dzZXIuc3FsaXRlYnJvd3Nlci5wbmc" width="120" alt="DB Browser Logo">
 </p>
 
-[ تحميل البرنامج](https://sqlitebrowser.org/dl/)
+🔗 [تحميل البرنامج](https://sqlitebrowser.org/dl/)
 
 البرنامج المعتمد لإدارة والتعامل مع قواعد البيانات بلغة **SQL**.
 

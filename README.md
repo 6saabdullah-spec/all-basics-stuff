@@ -4,7 +4,7 @@
 
 ---
 
-#  الأدوات التي أستخدمها
+#  الأدوات الي أستخدمها
 
 <br>
 
@@ -25,7 +25,7 @@
   <img src="https://code.visualstudio.com/assets/docs/getstarted/userinterface/hero.png" width="800" alt="VS Code Interface">
 </p>
 
-### 🧩 الإضافات التي أستخدمها
+### 🧩 الإضافات الي أستخدمها
 - **Java Extension Pack**
 - **Code Runner**
 - **Live Server**
@@ -51,7 +51,7 @@
 
 ---
 
-#  المنصات التي أتعلم منها
+#  المنصات الي أتعلم منها
 
 ## أكاديمية سطر (Tuwaiq Academy)
 
